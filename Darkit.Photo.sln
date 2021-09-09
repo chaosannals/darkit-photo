@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darkit.Photo", "Darkit.Photo\Darkit.Photo.csproj", "{79D0A529-9C21-4669-B745-75E1717DE49A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darkit.Photo.Demo", "Darkit.Photo.Demo\Darkit.Photo.Demo.csproj", "{BA9A50D9-8027-4A85-BB35-228F4C3D5AA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D0A529-9C21-4669-B745-75E1717DE49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D0A529-9C21-4669-B745-75E1717DE49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D0A529-9C21-4669-B745-75E1717DE49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D0A529-9C21-4669-B745-75E1717DE49A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA9A50D9-8027-4A85-BB35-228F4C3D5AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9A50D9-8027-4A85-BB35-228F4C3D5AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9A50D9-8027-4A85-BB35-228F4C3D5AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9A50D9-8027-4A85-BB35-228F4C3D5AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0ED7995-840A-4B85-919A-C84D3359F76A}
+	EndGlobalSection
+EndGlobal
